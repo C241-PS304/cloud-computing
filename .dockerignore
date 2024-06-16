@@ -1,0 +1,10 @@
+**/node_modules
+
+Dockerfile
+API_Spec.json
+app.yaml
+email-template.html
+.env
+.git
+.gitignore
+.dockerignore
